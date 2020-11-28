@@ -14,7 +14,9 @@ class ViewController: UIViewController, Alertable {
     
 }
 ```
-Implementation: [Alertable](https://github.com/johnnycuongn/Swift-Helpers-Extensions/tree/main/Alertable)
+Implement: [Alertable](https://github.com/johnnycuongn/Swift-Helpers-Extensions/tree/main/Alertable)
 
 ### Observable
 Data Binding 
+Implement: [Observable](https://github.com/johnnycuongn/Swift-Helpers-Extensions/tree/main/Observable)
+
